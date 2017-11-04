@@ -1,4 +1,4 @@
-# CodesWholesale for WooCommerce Update product on save post
+# CodesWholesale Update product on save post
 Add action when saving post so that product is updated with price an stock from codeswholesale
 
 ## Requirements
