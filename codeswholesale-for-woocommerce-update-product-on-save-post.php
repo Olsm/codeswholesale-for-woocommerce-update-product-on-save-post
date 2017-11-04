@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: CodesWholesale for WooCommerce Update product on save post
+Plugin Name: CodesWholesale Update product on save post
 Description: Add action when saving post so that product is updated with price an stock from codeswholesale
 Version: 1.0.0
 Author: Olav Småriset
