@@ -2,7 +2,7 @@
 Add action when saving post so that product is updated with price an stock from codeswholesale
 
 ## Requirements
-Codeswholesale for Woocommerce plugin
+Codeswholesale for Woocommerce plugin 2.0
 
 ## Installation
 ### Fix code mistakes in main plugin
